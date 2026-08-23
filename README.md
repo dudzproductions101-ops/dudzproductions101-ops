@@ -4,13 +4,13 @@
 
 I'm **dudas131**, a student interested in low-level programming, operating systems, and building things from scratch.
 
-### `projects`
+### Projects
 
 - **VulcanOS** — my main OSDev project
 - **Invisible Hand** — project / experiment
 - **Nova** — a Roblox-like platform, currently private
 
-### `stack`
+### Stack
 
 `C` · `C++` · `Python` · `Lua`
 
@@ -18,7 +18,7 @@ I'm **dudas131**, a student interested in low-level programming, operating syste
 
 `QEMU` · `GRUB` · `LLVM` · `Clang` · `WebAssembly` · `FastAPI`
 
-### `elsewhere`
+### Elsewhere
 
 **Discord:** `https://discord.gg/B2KFTCASUw`
 
