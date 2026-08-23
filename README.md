@@ -20,7 +20,7 @@ I'm **dudas131**, a student interested in low-level programming, operating syste
 
 ### `elsewhere`
 
-**Discord:** `your_discord_here`
+**Discord:** `https://discord.gg/B2KFTCASUw`
 
 <details>
 <summary>more</summary>
