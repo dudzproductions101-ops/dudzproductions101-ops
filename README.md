@@ -1,14 +1,14 @@
 
 
+
 <div align="center">
   <img
     src="./IMG-20260525-WA0010.jpg"
     width="100%"
-    height="180"
     alt="dudas131 banner"
-    style="object-fit: cover; object-position: center;"
   />
 </div>
+
 
 
   <h1>dudas131</h1>
